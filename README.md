@@ -1,1 +1,1 @@
-# SQL_Hunt_Where_In_The_World_Carman_Sandiego
+# SQL project 1
